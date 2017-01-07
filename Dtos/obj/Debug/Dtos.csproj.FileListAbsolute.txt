@@ -1,0 +1,5 @@
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\Dtos\bin\Debug\Dtos.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\Dtos\bin\Debug\Dtos.pdb
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\Dtos\obj\Debug\Dtos.csprojResolveAssemblyReference.cache
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\Dtos\obj\Debug\Dtos.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\Dtos\obj\Debug\Dtos.pdb

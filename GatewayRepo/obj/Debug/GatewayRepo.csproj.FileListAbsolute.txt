@@ -1,0 +1,11 @@
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\GatewayRepo.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\GatewayRepo.pdb
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\obj\Debug\GatewayRepo.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\obj\Debug\GatewayRepo.pdb
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\obj\Debug\GatewayRepo.csprojResolveAssemblyReference.cache
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\Dtos.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\RestSharp.dll
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\Dtos.pdb
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p4100378\Desktop\ThAmCo-UserClient\GatewayRepo\bin\Debug\RestSharp.xml

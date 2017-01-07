@@ -1,0 +1,40 @@
+﻿@model Dtos.StorePage
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>The Store</h2>
+
+<table class="table">
+
+    @foreach (var item in Model.giftBoxes)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.id)
+                @Html.DisplayFor(modelitem => item.price)
+                @Html.DisplayFor(modelitem => item.wrapping)
+                @Html.DisplayFor(modelitem => item.products)
+                @foreach (var item2 in item.products)
+                {
+                    @Html.DisplayFor(modelitem => item2.id)
+                    @Html.DisplayFor(modelitem => item2.name)
+                    @Html.DisplayFor(modelitem => item2.brandId)
+                    @Html.DisplayFor(modelitem => item2.brandName)
+                    @Html.DisplayFor(modelitem => item2.categoryId)
+                    @Html.DisplayFor(modelitem => item2.categoryName)
+                    @Html.DisplayFor(modelitem => item2.description)
+                    @Html.DisplayFor(modelitem => item2.ean)
+                    @Html.DisplayFor(modelitem => item2.expectedRestock)
+                    @Html.DisplayFor(modelitem => item2.inStock)
+                    @Html.DisplayFor(modelitem => item2.price)
+                }
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>
